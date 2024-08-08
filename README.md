@@ -13,10 +13,11 @@
 # 🍀기능 소개
 
 
-
 ## ✨ 스플래시 & 로그인
 
-<img src="https://github.com/joseph1723/Madcamp_project2/assets/108858918/ee812667-bfdb-4f72-a488-75a0329a79a1" alt="로그인" width="220"/>
+<p align="center">
+  <img src="https://github.com/joseph1723/Madcamp_project2/assets/108858918/ee812667-bfdb-4f72-a488-75a0329a79a1" alt="로그인" width="250"/>
+</p>
 
 - 스플래시 화면 후 로그인 페이지가 나옵니다.
 
@@ -26,7 +27,9 @@
 
 ## ✨ 오늘의 추천 테마 & 테마 선택
 
-<img src="https://github.com/joseph1723/Madcamp_project2/assets/108858918/8daf2e0c-9039-4140-b89f-126c7b1766c2" alt="추천테마" width="220"/>
+<p align="center">
+  <img src="https://github.com/joseph1723/Madcamp_project2/assets/108858918/8daf2e0c-9039-4140-b89f-126c7b1766c2" alt="추천테마" width="250"/>
+</p>
 
 - 오늘의 추천 테마가 나옵니다.
 
@@ -38,7 +41,9 @@
 
 ## ✨ 산책맵 - 실시간 도달 위치 인증 & 뱃지 획득
 
-<img src="https://github.com/joseph1723/Madcamp_project2/assets/108858918/36a70bb6-4ce5-4418-ba6a-18476767451a" alt="산책맵" width="220"/>
+<p align="center">
+  <img src="https://github.com/joseph1723/Madcamp_project2/assets/108858918/36a70bb6-4ce5-4418-ba6a-18476767451a" alt="산책맵" width="250"/>
+</p>
 
 - 나의 현재 위치가 초록색 마커로 표시가 되고, 실시간으로 위치 변동사항이 반영됩니다.
 
@@ -52,7 +57,9 @@
 
 ## ✨ 마이 페이지 & 찜 리스트
 
-<img src="https://github.com/joseph1723/Madcamp_project2/assets/108858918/732c2625-bb75-425f-899c-21ae1f9ff01b" alt="찜리스트" width="220"/>
+<p align="center">
+  <img src="https://github.com/joseph1723/Madcamp_project2/assets/108858918/732c2625-bb75-425f-899c-21ae1f9ff01b" alt="찜리스트" width="250"/>
+</p>
 
 - 마이 페이지에서는 내가 획득한 산책 뱃지와 프로필을 볼 수 있습니다.
 - 프로필 수정 버튼을 누르면 이름, 전화번호, 자기소개, 그리고 프로필 사진을 변경할 수 있습니다.
@@ -74,9 +81,8 @@
 
 # 🍀팀원
 
-- 이재희
-https://github.com/jaehee831 / Front-End개발, UI Design
 
-- 김동근 
-https://github.com/joseph1723 / Back-End, Front-End 개발
-
+| 이름     | 역할      | GitHub 링크                          |
+|----------|-----------|--------------------------------------|
+| 이재희   | Frontend, Design  | [jaehee831](https://github.com/jaehee831) |
+| 김동근   | Backend, Frontend   | [joseph1723](https://github.com/joseph1723) |
