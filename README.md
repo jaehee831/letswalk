@@ -1,6 +1,6 @@
-BackEnd link : https://github.com/joseph1723/madcamp2_back/tree/master
+- BackEnd link : https://github.com/joseph1723/madcamp2_back/tree/master
 
-<img src="https://github.com/joseph1723/Madcamp_project2/assets/108858918/cbd5aaf2-07fe-4533-8a22-65e5ddc21b9d" alt="스플래시" width="400"/>
+![스플래시](https://github.com/joseph1723/Madcamp_project2/assets/108858918/cbd5aaf2-07fe-4533-8a22-65e5ddc21b9d)
 
 💡 모니터 앞에만 있는 당신! 고개를 들어 주변을 보라! 🏙️
 
@@ -16,7 +16,7 @@ BackEnd link : https://github.com/joseph1723/madcamp2_back/tree/master
 
 ## ✨ 스플래시 & 로그인
 
-![로그인](https://github.com/joseph1723/Madcamp_project2/assets/108858918/ee812667-bfdb-4f72-a488-75a0329a79a1)
+<img src="https://github.com/joseph1723/Madcamp_project2/assets/108858918/ee812667-bfdb-4f72-a488-75a0329a79a1" alt="로그인" width="400"/>
 
 - 스플래시 화면 후 로그인 페이지가 나옵니다.
 
