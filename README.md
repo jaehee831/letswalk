@@ -1,6 +1,8 @@
 - BackEnd link : https://github.com/joseph1723/madcamp2_back/tree/master
 
-![스플래시](https://github.com/joseph1723/Madcamp_project2/assets/108858918/cbd5aaf2-07fe-4533-8a22-65e5ddc21b9d)
+<p align="center">
+  <img src="https://github.com/joseph1723/Madcamp_project2/assets/108858918/cbd5aaf2-07fe-4533-8a22-65e5ddc21b9d"/>
+</p>
 
 💡 모니터 앞에만 있는 당신! 고개를 들어 주변을 보라! 🏙️
 
